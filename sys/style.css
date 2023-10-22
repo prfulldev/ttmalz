@@ -117,6 +117,9 @@ header i {
    margin: auto;
    width: 95%;
 }
+.c-head img {
+   height: 100%;
+}
 
 .c-btm {
    display: flex;

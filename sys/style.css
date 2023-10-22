@@ -302,4 +302,18 @@ a:hover {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+/*  tutor  */
 
+.tutor-container{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+@media (min-width:720px){
+  .tutor{
+    width: 300px;
+  }
+}

@@ -32,7 +32,8 @@ const download = (url) => {
                   <img
                      src="${thumb}"
                      alt="prof"
-                     width="100"
+                     width="100px"
+                     height="auto"
                   />
                   <p>${desc}</p>
                </div>
